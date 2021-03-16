@@ -1,0 +1,32 @@
+The main features of the application that have been implemented and their included functionalities are described as below:
+Feature 1: Account Management
+- Account login
+- Account logout
+- Change account password
+- Recovery account password
+- View profile
+- Edit profile
+- Edit skills
+Feature 2: Service Booking Management
+- View bookings
+- View unconfirmed shifts
+- Edit unconfirmed shift
+- Confirm shift
+- Start/finish shift
+Feature 3: Timetable Management
+- View carer availability
+- Create a new carer availability entry
+- Edit a carer availability entry
+- Remove a carer availability entry
+- View carer unavailability
+- Submit a new leave request
+- Edit a leave request
+- Remove a leave request
+Feature 4: Contact Management
+- View contact history
+Feature 5: Report/Claim Management
+- View Incident Reports
+- Submit a new incident report
+- Update a new incident report
+- Remove a new incident report
+
