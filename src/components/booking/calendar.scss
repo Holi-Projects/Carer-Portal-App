@@ -1,0 +1,54 @@
+.calendar-checkbox {
+	margin-right: 0.2em;
+	padding: 0.5em;
+	// width: 25%;
+}
+
+.unconfirmed {
+	background-color: #f8961e;
+}
+.confirmed {
+	background-color: #90be6d;
+}
+.approved {
+	background-color: #999966;
+}
+.rejected {
+	background-color: #f94144;
+}
+.current {
+	background-color: #0099cc;
+}
+
+.headin {
+    position: relative;
+    min-height: 30px;
+}
+.custom-item {
+    position: relative;
+    min-height: 30px;
+}
+.square {
+	margin: 5px !important;
+	padding-right: 10px !important;
+}
+.w100 {
+	width: 100%;
+}
+
+.heading {
+	font-size:xx-large;
+	margin: 0;
+}
+
+.sub-title {
+	font-size:large;
+	margin: 0;
+}
+
+// @media only screen and (max-width: 600px) {
+// 	.calendar-checkbox {
+// 		padding: 5px;
+// 		width: 50%;
+// 	}
+// }
