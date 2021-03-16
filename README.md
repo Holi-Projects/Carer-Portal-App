@@ -1,8 +1,8 @@
 This project demo is available at https://dev.goalmaker.com.au:1103/#/login.
 
 ## Available Test Data
-Email: mike.nichol@test.com.au or spotshotz@test.com.au
-Password: password
+- Email: mike.nichol@test.com.au or spotshotz@test.com.au
+- Password: password
 
 
 ## Project File Structure
